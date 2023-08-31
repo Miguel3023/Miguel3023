@@ -24,7 +24,7 @@
 <br><br>
 
 - Soy alguien que le apasiona el campo de la seguridad informática, asimismo me encanta enseñar y aprender. Soy curioso y como dicen... "Si el conocimiento es poder... Aprender es un superpoder!!!"
-- Tengo mi propio blog realizado aquí mismo en github donde enseño y al mismo tomo notas: https://miguel3023.github.io
+- Tengo mi propio blog realizado aquí mismo en github donde enseño y al mismo tomo notas, visítalo si eres un curioso y te gustaría aprender... a lo mejor quedas flipando: https://miguel3023.github.io
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
